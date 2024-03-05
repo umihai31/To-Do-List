@@ -1,5 +1,13 @@
 # To Do List APP
 
+After having a chat with Copilot (AI), i've asked him to make me a python quizz, after the quizz, i've made a request to make me a task so i can learn python from tasks. 
+AI was not used in help of this project only after the project was done to check if all requirements were fully covered and if anything is ok
+
+To Do's :
+  - Project can be improved by using error handler (ranges, invalid values and so on)
+  - It can be added, a GUI - not a priority because it's hard to do it on google colab.
+  - All the information can be added to a file , so, that working with files can be learned.
+
 Welcome to the To-Do List App!
 
 1. Add Task
